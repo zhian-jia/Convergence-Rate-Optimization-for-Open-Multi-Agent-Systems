@@ -1,1 +1,1 @@
-
+LCSS.m is the main program, ADMM1.m is the W-matrix optimisation solution sub-program, Wij.m is the network parameter design sub-program, plotOMAS.m is the paper drawing sub-program, and. mat is the simulation data corresponding to the paper picture.
